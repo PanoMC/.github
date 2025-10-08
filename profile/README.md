@@ -2,7 +2,7 @@
   <img width="120" src="https://i.ibb.co/wy0LVmD/Pano-Icon.png" alt="Pano Logo">
 </p>
 
-<h1 align="center">PanoMC</h1>
+<h1 align="center">Pano</h1>
 
 <p align="center">
   🚀 Pano is an advanced server management and web platform for Minecraft.
