@@ -5,7 +5,7 @@
 <h1 align="center">PanoMC</h1>
 
 <p align="center">
-  Pano is an advanced web platform for Minecraft server websites.
+  🚀 Pano is an advanced server management and web platform for Minecraft.
 </p>
 
 <p align="center">
