@@ -5,7 +5,7 @@
 <h1 align="center">PanoMC</h1>
 
 <p align="center">
-  PanoMC is the GitHub organization hosting **Pano**, an advanced web platform for Minecraft server websites, along with its related open-source projects.
+  Pano is an advanced web platform for Minecraft server websites.
 </p>
 
 <p align="center">
