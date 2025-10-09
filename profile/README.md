@@ -26,7 +26,7 @@
 ---
 
 ## Trying Pano
-To try Pano, please follow the guide in the [Pano repository README](https://github.com/PanoMC/pano#trying-pano). It contains instructions for running the platform, requirements, and detailed usage information.
+To try Pano, please follow the guide in the [Pano repository README](https://github.com/PanoMC/pano?tab=readme-ov-file#-trying-pano). It contains instructions for running the platform, requirements, and detailed usage information.
 
 ---
 
