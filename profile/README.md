@@ -31,4 +31,4 @@ To try Pano, please follow the guide in the [Pano repository README](https://git
 ---
 
 ## License
-All projects in this organization are licensed under **GNU GPLv3**, fully open-source and free to use, modify, and redistribute.
+All open source projects in this organization are licensed under **GNU GPLv3**, fully open-source and free to use, modify, and redistribute.
