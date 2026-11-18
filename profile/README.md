@@ -1,15 +1,19 @@
 <h1 align="center">Pano</h1>
 
-<h3 align="center">The website your Minecraft server deserves.</h3>
+<h3 align="center">Build your Minecraft server panel</h3>
 
 <p align="center">
-  News, store, support, players, staff and your servers, all in one place.<br>
-  Free, open source, and running on your own machine in a few minutes.
+  One place for your website, store, and game server.<br>
+  An open-source CMS and management panel you can extend with themes and addons.
+</p>
+
+<p align="center">
+  <a href="https://demo.panomc.com"><img src="https://img.shields.io/badge/%E2%96%B6%20%20Live%20Demo-3b59f3?style=for-the-badge&logoColor=white" alt="Live Demo" height="48"></a>
+  <a href="https://panomc.com"><img src="https://img.shields.io/badge/Website-ffc947?style=for-the-badge" alt="Website" height="48"></a>
 </p>
 
 <p align="center">
   <a href="https://panomc.com/downloads"><b>Download</b></a> ·
-  <a href="https://demo.panomc.com"><b>Live demo</b></a> ·
   <a href="https://panomc.com/docs"><b>Docs</b></a> ·
   <a href="https://panomc.com/discord"><b>Discord</b></a>
 </p>
@@ -26,20 +30,27 @@
 
 ---
 
-## ✨ Why Pano?
+<h2 align="center">Your website and your servers, one panel</h2>
+
+<p align="center">
+  <img src="assets/panel-dashboard.jpg" alt="Pano panel" width="49%">
+  <img src="assets/server-overview.jpg" alt="Server overview" width="49%">
+</p>
+
+---
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🚀 Ready in minutes</h3>
+      <h3>Ready in minutes</h3>
       One command installs everything. A setup wizard walks you through the rest.
     </td>
     <td width="33%" valign="top">
-      <h3>🎮 Connected to your game</h3>
+      <h3>Connected to your game</h3>
       Players, online status and staff come straight from your Minecraft server, live.
     </td>
     <td width="33%" valign="top">
-      <h3>🧩 Grows with you</h3>
+      <h3>Grows with you</h3>
       Add a store, voting, bans, FAQ and more from the Pano market with a single click.
     </td>
   </tr>
@@ -47,9 +58,7 @@
 
 ---
 
-## 🖼️ Your server, your style
-
-**Vanilla** comes free with Pano; premium themes like **Blaze** and **Blocky** are available in the Pano market.
+<h2 align="center">Themes</h2>
 
 <table>
   <tr>
@@ -70,19 +79,7 @@
 
 ---
 
-## 🛠️ Your website and your servers, one panel
-
-<p align="center">
-  <img src="assets/panel-dashboard.jpg" alt="Pano panel" width="49%">
-  <img src="assets/server-overview.jpg" alt="Server overview" width="49%">
-</p>
-
-Posts, tickets, players, staff, statistics and backups for your website. Live console, performance,
-files, plugins and schedules for your Minecraft servers.
-
----
-
-## 📦 Projects
+## Projects
 
 | Project | What it is |
 |---|---|
@@ -95,16 +92,16 @@ files, plugins and schedules for your Minecraft servers.
 
 ---
 
-## ⚡ Get started
-
-```bash
-# macOS / Linux
-curl -fsSL https://panomc.com/install | bash
-```
+## Install Now
 
 ```powershell
 # Windows
 irm https://panomc.com/install.ps1 | iex
+```
+
+```bash
+# macOS / Linux
+curl -fsSL https://panomc.com/install | bash
 ```
 
 More options on [panomc.com/downloads](https://panomc.com/downloads).
