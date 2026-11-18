@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="140" height="140" src="assets/logo.png" alt="Pano">
-</p>
-
 <h1 align="center">Pano</h1>
 
 <h3 align="center">The website your Minecraft server deserves.</h3>
